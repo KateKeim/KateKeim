@@ -82,18 +82,18 @@
 <!-- Projects & Portfolio -->
 ## 🌐 Projects & Portfolio
 
-- 🚀 [Project 1](#) - A brief description of your first project.
-- 🌟 [Project 2](#) - An exciting second project.
-- 🎉 [Portfolio](#) - Explore more of my work!
+- 🚀 [Project 1](https://myflixck.netlify.app/login) - My project is designed to replicate the user interface and experience of Netflix using the Angular framework.
+- 🌟 [Project 2](https://katekeim.github.io/Pokedox/) - The website fetches information from the database, serving as a Pokedex for users to explore different Pokémon.
+- 🎉 [Portfolio](https://katekeim.github.io/Responsive-Portfolio/) - Explore more of my work!
 
 <!-- Let's Connect -->
 ## 💌 Let's Connect
 
 I'm always open to collaborations and conversations. Let's connect and build something amazing together:
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
-- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- 📧 Email: [chakkapatsaran@gmail.com](mailto:chakkapatsaran@gmail.com)
+- 💼 LinkedIn: [Chakkapatsaran](https://www.linkedin.com/in/chakkapatsaran-keim/)
+- 🐦 Twitter: [](https://twitter.com/yourtwitterhandle)
 
 <!-- Footer -->
 ## 🙏 Acknowledgements
